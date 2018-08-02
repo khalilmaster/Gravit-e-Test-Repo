@@ -1,0 +1,11 @@
+/Users/khalilmaster/gravit-e-test/bin/Debug/netcoreapp2.1/gravit-e-test.deps.json
+/Users/khalilmaster/gravit-e-test/bin/Debug/netcoreapp2.1/gravit-e-test.runtimeconfig.json
+/Users/khalilmaster/gravit-e-test/bin/Debug/netcoreapp2.1/gravit-e-test.runtimeconfig.dev.json
+/Users/khalilmaster/gravit-e-test/bin/Debug/netcoreapp2.1/gravit-e-test.dll
+/Users/khalilmaster/gravit-e-test/bin/Debug/netcoreapp2.1/gravit-e-test.pdb
+/Users/khalilmaster/gravit-e-test/obj/Debug/netcoreapp2.1/gravit-e-test.csprojAssemblyReference.cache
+/Users/khalilmaster/gravit-e-test/obj/Debug/netcoreapp2.1/gravit-e-test.csproj.CoreCompileInputs.cache
+/Users/khalilmaster/gravit-e-test/obj/Debug/netcoreapp2.1/gravit-e-test.AssemblyInfoInputs.cache
+/Users/khalilmaster/gravit-e-test/obj/Debug/netcoreapp2.1/gravit-e-test.AssemblyInfo.cs
+/Users/khalilmaster/gravit-e-test/obj/Debug/netcoreapp2.1/gravit-e-test.dll
+/Users/khalilmaster/gravit-e-test/obj/Debug/netcoreapp2.1/gravit-e-test.pdb
